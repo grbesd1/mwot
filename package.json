@@ -51,7 +51,7 @@
     "express-ws": "^4.0.0",
     "http-proxy": "^1.17.0",
     "ip-regex": "^4.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mkdirp": "^0.5.1",
     "nanomsg": "^4.1.0",
     "ncp": "^2.0.0",
